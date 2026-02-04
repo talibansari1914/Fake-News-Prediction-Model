@@ -12,6 +12,10 @@ To build a predictive model that can accurately identify whether a news article 
 ---
 
 ## 📊 Dataset Description
+The dataset used in this project is large (~90MB) and is not included in the repository.<br>
+You can download the dataset from:<br>
+After downloading, place the CSV file in the project root directory.<br>
+
 The dataset contains the following features:<br>
 
 | Column Name | Description |<br>
