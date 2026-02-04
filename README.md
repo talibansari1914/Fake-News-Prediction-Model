@@ -109,7 +109,7 @@ The trained model can predict the authenticity of unseen news articles and outpu
 
 ## 👤 Author
 **Abbu Talib Ansari**<br>
-GiHub:`https://github.com/talibansari1914/Fake-News-Prediction`<br>
+GiHub:https://github.com/talibansari1914/Fake-News-Prediction<br>
 ---
 
 ## 📄 License
